@@ -1,5 +1,5 @@
 # README
-This game was made in 48 hours by Alexandre Mattenet (alex@mattenet.com)
+This game was made in 48 hours by Alex Mattenet (alex@mattenet.com)
 for the Ludum Dare 37 compo.
 
 ## description
